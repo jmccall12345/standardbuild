@@ -1,0 +1,4 @@
+standardbuild
+=============
+
+Test standard
